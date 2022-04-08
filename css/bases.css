@@ -20,11 +20,12 @@
 
     --background-footer: #333333;
 
-    --montserrat : 'Montserrat', sans-serif;
-    --open-sans: 'Open sans', sans-serif;
+    --montserrat: 'Montserrat', sans-serif;
+    --open-sans: 'Open Sans', sans-serif;
 }
+
 body {
-    font-family: var(--open-sans)
+    font-family: var(--open-sans);
 }
 
 .container {
